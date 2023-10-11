@@ -1,5 +1,12 @@
 ### Hi there 👋
+Welcome to my github! :) I'm a grad student at NYU, who loves to explore and build cool stuff with Java!
 
+
+### Dev ☕
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashshankar)](https://github.com/aakashshankar/github-readme-stats)
+
+### Stats ✨
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashshankar&show_icons=true&theme=radical)
 <!--
 **aakashshankar/aakashshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
