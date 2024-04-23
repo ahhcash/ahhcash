@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my github! :) I'm a grad student at NYU, who loves to explore and build cool stuff with Java!
+Welcome to my github! :) I'm a grad student at NYU, trying to make my life a little less mundane.
 
 
 ### Dev ☕
