@@ -1,6 +1,4 @@
-### Hi there 👋
-Welcome to my github! :) I'm a grad student at NYU, trying to make my life a little less mundane.
-
+### hey! 👋
 
 ### Dev ☕
 [![Top Langs](https://github-readme-stats-three-self-29.vercel.app/api/top-langs/?username=aakashshankar&theme=radical&show_icons=true&layout=compact&langs_count=8)](https://github.com/aakashshankar/github-readme-stats)
