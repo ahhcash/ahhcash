@@ -1,10 +1,10 @@
 ### hey! 👋
 
 ### Dev ☕
-[![Top Langs](https://github-readme-stats-three-self-29.vercel.app/api/top-langs/?username=aakashshankar&theme=radical&show_icons=true&layout=compact&langs_count=8)](https://github.com/aakashshankar/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-self-29.vercel.app/api/top-langs/?username=ahhcash&theme=radical&show_icons=true&layout=compact&langs_count=8)](https://github.com/aakashshankar/github-readme-stats)
 
 ### Stats ✨
-![Aakash's GitHub stats](https://github-readme-stats-three-self-29.vercel.app/api?username=aakashshankar&show_icons=true&theme=radical&count_private=true)
+![Aakash's GitHub stats](https://github-readme-stats-three-self-29.vercel.app/api?username=ahhcash&show_icons=true&theme=radical&count_private=true)
 <!--
 **aakashshankar/aakashshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
